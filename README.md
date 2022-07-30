@@ -1,7 +1,7 @@
 # About multi-thread-RREF
 A multi-threaded C program to transform any matrix into their Reduced Row Echelon Form (RREF) using the Gauss-Jordan Method.  
-Initially, this program was made to accomplish a college task but I found it useful for my Linear Algebra class.  
-I made this repository to document what I've made in college for future references.
+Suitable for Linear Algebra.
+
 # Features
 - Parallel Programming -> Multi Threading
 - OpenMP library
